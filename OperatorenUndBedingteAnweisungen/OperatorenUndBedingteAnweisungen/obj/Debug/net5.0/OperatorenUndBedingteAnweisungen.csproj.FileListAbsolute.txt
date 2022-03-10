@@ -1,0 +1,32 @@
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.exe
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.deps.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.runtimeconfig.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.runtimeconfig.dev.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\ref\OperatorenUndBedingteAnweisungen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.pdb
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.AssemblyInfoInputs.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.AssemblyInfo.cs
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.csproj.CoreCompileInputs.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\ref\OperatorenUndBedingteAnweisungen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.pdb
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.genruntimeconfig.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.csproj.AssemblyReference.cache
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.exe
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.deps.json
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.runtimeconfig.json
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.runtimeconfig.dev.json
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.dll
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\ref\OperatorenUndBedingteAnweisungen.dll
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\bin\Debug\net5.0\OperatorenUndBedingteAnweisungen.pdb
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.csproj.AssemblyReference.cache
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.AssemblyInfoInputs.cache
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.AssemblyInfo.cs
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.csproj.CoreCompileInputs.cache
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.dll
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\ref\OperatorenUndBedingteAnweisungen.dll
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.pdb
+C:\Users\dstoy\Downloads\C#\OperatorenUndBedingteAnweisungen\OperatorenUndBedingteAnweisungen\obj\Debug\net5.0\OperatorenUndBedingteAnweisungen.genruntimeconfig.cache

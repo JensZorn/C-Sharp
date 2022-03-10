@@ -1,0 +1,16 @@
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\MeinErstesCSharpProgramm.exe
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\MeinErstesCSharpProgramm.deps.json
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\MeinErstesCSharpProgramm.runtimeconfig.json
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\MeinErstesCSharpProgramm.runtimeconfig.dev.json
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\MeinErstesCSharpProgramm.dll
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\ref\MeinErstesCSharpProgramm.dll
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\bin\Debug\net5.0\MeinErstesCSharpProgramm.pdb
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.csproj.AssemblyReference.cache
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.AssemblyInfoInputs.cache
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.AssemblyInfo.cs
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.csproj.CoreCompileInputs.cache
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.dll
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\ref\MeinErstesCSharpProgramm.dll
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.pdb
+C:\Users\nesam\Desktop\IBB\IT_21_Sommer_FIAE_B\MeinErstesCSharpProgramm\MeinErstesCSharpProgramm\obj\Debug\net5.0\MeinErstesCSharpProgramm.genruntimeconfig.cache
