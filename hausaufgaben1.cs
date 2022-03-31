@@ -1,3 +1,18 @@
+///////////////////////////////////////////////////////////////////////////////
+// -*- coding: UTF-8 -*-
+//
+//
+//               Main menu for my small projects
+//
+//               by Jens Zorn
+//
+//
+//               Additional information can be found in tmps.py
+//
+//
+//
+// <°))))><
+///////////////////////////////////////////////////////////////////////////////
 using System;
 
 namespace Hausaufgaben
@@ -13,7 +28,7 @@ namespace Hausaufgaben
 
 Bitte wähle aus folgenden Hausaufgaben aus:
 
-1. While-Schleife, die von 20 bis 50 zählt.
+1. For-Schleife, die von 20 bis 50 zählt.
 2. Programm zur Ausgabe der Himmelsrichtungen (Switch-Statement)
 3. Programm zur Ausgabe von Farben (If-Else-Statement)
 
